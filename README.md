@@ -2,10 +2,10 @@
 
 These are based on the official ゲームマーケット maps (which can be found [here](https://gamemarket.jp/map)), but differ as follows:
 
-* Bilingual Japanese-English
-* Company logos are included for large booths.
+* Bilingual Japanese-English (日本語 / 英語)
+* Company logos are included for large booths. (企業ロゴ)
   * These can help make it easier to navigate during the event since the large booths tend to have more visible signage.
-* Single-day (Saturday-only or Sunday-only) booths are marked in yellow
+* Single-day (Saturday-only or Sunday-only) booths are marked in yellow (土曜日のみ、日曜日のみは黄色で)
 
 Latest maps are for 2026 Autumn:
 
