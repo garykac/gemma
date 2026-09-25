@@ -11,5 +11,5 @@ Latest maps are for 2026 Autumn:
 
 | Saturday | Sunday|
 | :---: | :---: |
-| [![2026 Autumn Saturday](2026b-autumn/tn/TGM2026-autumn-01.png)](2026b-autumn/TGM2026-autumn-01.pdf) | [![2026 Autumn Sunday](2026b-autumn/tn/TGM2026-autumn-02.png)](2026b-autumn/TGM2026-autumn-02.pdf) |
+| [![2026 Autumn Saturday](2026b-autumn/tn/TGM2026-autumn-01.png)](http://garykac.github.io/gemma/2026b-autumn/TGM2026-autumn-01.pdf) | [![2026 Autumn Sunday](2026b-autumn/tn/TGM2026-autumn-02.png)](http://garykac.github.io/gemma/2026b-autumn/TGM2026-autumn-02.pdf) |
 | 17 Oct 2026 | 18 Oct 2026|
