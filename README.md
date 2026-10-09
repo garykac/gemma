@@ -26,8 +26,10 @@ You can ignore the Conference Halls (in Green), the Event Hall (in Orange) and t
 
 The main entrance to the Messe is the Central Entrance, which (on the map above) is where the yellow walkways take you between the green and orange buildings up to the blue building.
 
-Here's another view highlighting the 5 halls that are used by Game Market.
+Here's another view highlighting the 5 halls that are being used by Game Market in Fall 2026.
 
 ![Makuhari Messe buildings](map/makuhari-messe-buildings.jpg)
 
-The Central Entrance brings you to the Central Mall in front of Hall 5. You'll go down the mall to the right and there will be people directing you to the entrance for Game Market.
+Note that if you have a early 11am Saturday ticket, the queueing area is in the Outdoor Exhibition Space (outside in front of Hall 1). See this [twitter post](https://x.com/GameMarket_/status/2108331612001685990) for info.
+
+The afternoon entrance (for regular ticket holders) will be through the main Central Entrance.
